@@ -1,0 +1,101 @@
+,Borough,Neighborhood,Latitude,Longitude
+0,North York,Parkwoods,43.7587999,-79.3201966
+1,North York,Victoria Village,43.732658,-79.3111892
+2,Downtown Toronto,Regent Park,43.6607056,-79.3604569
+3,North York,Lawrence Manor,43.7220788,-79.4375067
+5,Etobicoke,Islington Avenue,43.6389593,-79.5210499
+6,Scarborough,Malvern,43.8091955,-79.2217008
+7,North York,Don Mills North,43.775347,-79.3459439
+8,East York,Parkview Hill,43.7062977,-79.3219073
+9,Downtown Toronto,Garden District,43.6564995,-79.3771141
+10,North York,Glencairn,43.7087117,-79.4406853
+11,Etobicoke,West Deane Park,43.6631995,-79.5685684
+12,Scarborough,Rouge Hill,43.7802711,-79.1304992
+13,North York,Don Mills South,43.775347,-79.3459439
+14,East York,Woodbine Heights,43.69992,-79.319279
+15,Downtown Toronto,St. James Town,43.6694032,-79.3727041
+16,York,Humewood,43.6857205,-79.4251158
+17,Etobicoke,Eringate,43.6622732,-79.5765162
+18,Scarborough,Guildwood,43.7552251,-79.1982293
+19,East Toronto,The Beaches,43.6710244,-79.296712
+20,Downtown Toronto,Berczy Park,43.64798435,-79.37539591138858
+21,York,Caledonia,43.6923702,-79.4653558
+22,Scarborough,Woburn,43.7598243,-79.2252908
+23,East York,Leaside,43.7047983,-79.3680904
+24,Downtown Toronto,Central Bay Street,43.6561192,-79.38467
+25,Downtown Toronto,Christie,43.6641106,-79.4184051
+26,Scarborough,Cedarbrae,43.75646655,-79.22669244258802
+27,North York,Hillcrest Village,43.6816953,-79.4257118
+28,North York,Bathurst Manor,43.76389295,-79.45636693710946
+29,East York,Thorncliffe Park,43.704553,-79.3454074
+30,Downtown Toronto,Richmond,43.6485875,-79.3913729
+31,West Toronto,Dufferin,43.6602019,-79.4357191
+32,Scarborough,Scarborough Village,43.7437422,-79.2116324
+33,North York,Fairview,43.777758500000004,-79.34429375180316
+34,North York,Northwood Park,43.7541351,-79.50448
+35,East York/East Toronto,The Danforth  East,43.6881713,-79.3018156
+36,Downtown Toronto,Harbourfront East,43.6400801,-79.3801495
+37,West Toronto,Little Portugal,43.64741325,-79.43111632546047
+38,Scarborough,Kennedy Park,43.724878,-79.2539688
+39,North York,Bayview Village,43.7691966,-79.3766617
+40,North York,Downsview East,43.7492988,-79.462248
+41,East Toronto,The Danforth West,43.6864333,-79.3003555
+42,Downtown Toronto,Toronto Dominion Centre,43.6473768,-79.3813719429129
+43,West Toronto,Brockton,43.6509173,-79.4400216
+44,Scarborough,Golden Mile,43.7278414,-79.2876217
+45,North York,York Mills,43.7440391,-79.406657
+46,North York,Downsview West,43.7492988,-79.462248
+47,East Toronto,India Bazaar,43.6722231,-79.3235032
+48,Downtown Toronto,Commerce Court,43.648163800000006,-79.37776594404383
+49,North York,North Park,43.7186899,-79.4775337
+50,North York,Humber Summit,43.7600778,-79.5717598
+51,Scarborough,Cliffside,43.7111699,-79.2481769
+52,North York,Willowdale,43.7615095,-79.4109234
+53,North York,Downsview Central,43.7492988,-79.462248
+54,East Toronto,Studio District,43.65674565,-79.37884953293562
+55,North York,Bedford Park,43.7373876,-79.4109253
+56,York,Del Ray,43.6902077,-79.4931607
+57,North York,Humberlea,43.7213166,-79.5331605
+58,Scarborough,Birch Cliff,43.6918051,-79.2644935
+59,North York,Willowdale South,43.7615095,-79.4109234
+60,North York,Downsview Northwest,43.7492988,-79.462248
+61,Central Toronto,Lawrence Park,43.729199,-79.4032525
+62,Central Toronto,Roselawn,43.70650675,-79.42160226389638
+63,York,Runnymede,43.6517026,-79.4759978
+64,York,Weston,43.7001608,-79.5162474
+65,Scarborough,Dorset Park,43.7528467,-79.282067
+66,North York,York Mills West,43.7440391,-79.406657
+67,Central Toronto,Davisville North,43.697936,-79.3972908
+68,Central Toronto,Forest Hill North & West,43.701028,-79.4255998
+69,West Toronto,High Park,43.6538668,-79.4668644
+70,Etobicoke,Westmount,43.6936399,-79.5210426
+71,Scarborough,Wexford,43.7453767,-79.2947155
+72,North York,Willowdale West,43.7615095,-79.4109234
+73,Central Toronto,North Toronto West,43.6465466,-79.4195263
+74,Central Toronto,The Annex,43.6703377,-79.407117
+75,West Toronto,Parkdale,43.6404954,-79.4368965
+77,Etobicoke,Kingsview Village,43.6995391,-79.5563459
+78,Scarborough,Agincourt,43.7853531,-79.2785494
+79,Central Toronto,Davisville,43.697936,-79.3972908
+80,Downtown Toronto,University of Toronto,43.663461999999996,-79.39775965337452
+81,West Toronto,Runnymede,43.6517026,-79.4759978
+82,Scarborough,Clarks Corners,43.7964095,-79.2977951
+83,Central Toronto,Moore Park,43.6903876,-79.3832965
+84,Downtown Toronto,Kensington Market,43.6552136,-79.4022604
+85,Scarborough,Milliken,43.8231743,-79.3017626
+86,Central Toronto,Summerhill West,43.6816776,-79.3905037
+87,Downtown Toronto,CN Tower,43.6425637,-79.38708718320467
+88,Etobicoke,New Toronto,43.6007625,-79.505264
+89,Etobicoke,South Steeles,43.8161778,-79.3145378
+90,Scarborough,Steeles West,43.8161778,-79.3145378
+91,Downtown Toronto,Rosedale,43.6783556,-79.3807457
+92,Downtown Toronto Stn A,Enclave of M5E,43.7453323,-79.4919992
+93,Etobicoke,Alderwood,43.6017173,-79.5452325
+94,Etobicoke Northwest,Clairville,43.678523999999996,-79.62912913064454
+95,Scarborough,Upper Rouge,43.809343,-79.1875711
+96,Downtown Toronto,St. James Town,43.6694032,-79.3727041
+97,Downtown Toronto,First Canadian Place,43.6487681,-79.38169179283025
+98,Etobicoke,The Kingsway,43.6473811,-79.5113328
+99,Downtown Toronto,Church and Wellesley,43.6708625,-79.37279241253721
+101,Etobicoke,Old Mill South,43.649826,-79.4943338
+102,Etobicoke,Mimico NW,43.6166773,-79.4968048
